@@ -1,3 +1,6 @@
+<html>
+<head>
+</head>
 <body style="background-color: black;">
 <h1 align="center">Hi 👋, my name is Taha</h1>
 <h2 align="center">And</h2>
@@ -26,3 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahachaouch1994&" alt="tahachaouch1994" /></p>
 </body>
+</html>
