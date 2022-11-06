@@ -1,7 +1,7 @@
 <html>
 <head>
 </head>
-<body style="background-color: black;">
+<body style="background-color: #000000;">
 <h1 align="center">Hi 👋, my name is Taha</h1>
 <h2 align="center">And</h2>
 <h3 align="center"> I am a Mobile Software Engineer</h3> 
