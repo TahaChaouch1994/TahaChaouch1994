@@ -1,5 +1,5 @@
 
-<p style="background-color: black;">
+<p style="background-color: #FFFFFF;">
 <h1 align="center">Hi 👋, my name is Taha</h1>
 <h2 align="center"> 🙈 And 🙈</h2>
 <p align="center"><img src="https://github.com/TahaChaouch1994/TahaChaouch1994/blob/main/work.gif"/></p>
