@@ -1,8 +1,7 @@
 <body>
-<img src="https://github.com/TahaChaouch1994/TahaChaouch1994/blob/main/taha%20banner.jpeg?raw=true">
 <h1 align="center">Hi 👋, I'm Taha</h1>
-<h3 align="center">Mobile Software Engineer</h3>
-
+<h3 align="center"> I am a Mobile Software Engineer</h3>
+<img src="  https://github.com/TahaChaouch1994/TahaChaouch1994/blob/main/github%20banner.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahachaouch1994&label=Profile%20views&color=0e75b6&style=flat" alt="tahachaouch1994" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahachaouch1994" alt="tahachaouch1994" /></a> </p>
