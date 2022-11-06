@@ -1,4 +1,4 @@
-<body background-color: #E6E6FA>
+<body>
 <h1 align="center">Hi 👋, I'm Taha</h1>
 <h3 align="center">Mobile Software Engineer</h3>
 
