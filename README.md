@@ -1,3 +1,4 @@
+<body background-color: #E6E6FA>
 <h1 align="center">Hi 👋, I'm Taha</h1>
 <h3 align="center">Mobile Software Engineer</h3>
 
@@ -23,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahachaouch1994&show_icons=true&locale=en" alt="tahachaouch1994" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahachaouch1994&" alt="tahachaouch1994" /></p>
+</body>
