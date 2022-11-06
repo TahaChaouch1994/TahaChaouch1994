@@ -1,6 +1,5 @@
-
-![logo](https://github.com/TahaChaouch1994/TahaChaouch1994/blob/main/taha%20banner.jpeg)
 <body>
+<img src="[pic_trulli.jpg](https://github.com/TahaChaouch1994/TahaChaouch1994/blob/main/taha%20banner.jpeg)">
 <h1 align="center">Hi 👋, I'm Taha</h1>
 <h3 align="center">Mobile Software Engineer</h3>
 
