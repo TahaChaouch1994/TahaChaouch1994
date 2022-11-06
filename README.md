@@ -8,7 +8,7 @@
 <h1></h1>
 <p align="center"><img src="https://github.com/TahaChaouch1994/TahaChaouch1994/blob/main/trophiesText.gif"/></p>
 <p align="center"><img src="https://github.com/TahaChaouch1994/TahaChaouch1994/blob/main/trophy.gif"/></p>
-<p align="center">  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahachaouch1994" alt="tahachaouch1994" /></a></p>
+<p align="center">  <a href="https://github.com/ryo-ma&margin-h=15/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahachaouch1994" alt="tahachaouch1994" /></a></p>
 <h1></h1>
 
 
