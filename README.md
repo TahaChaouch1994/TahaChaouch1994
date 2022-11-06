@@ -26,7 +26,9 @@
 
 <h1></h1>
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/tahachaouch"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tahachaouch" /></a></p><br><br>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="tahachaouch" data-color="#BD5FFF" data-emoji="🍄" data-font="Comic" data-text="Buy me a mushroom" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script><br><br>
+
+
 
 <h1></h1>
 - How to reach me  : 📫 tahachaouch@gmail.com 📫   or Connect with me via <a href="https://linkedin.com/in/taha-chaouch-2795a717a" target="blank">Linkedin </a>
