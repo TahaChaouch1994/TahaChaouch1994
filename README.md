@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, my name is Taha</h1>
 <h2 align="center">And</h2>
-<h3 align="center"> I am a Mobile Software Engineer</h3> 
 <p align="center"><img src="https://github.com/TahaChaouch1994/TahaChaouch1994/blob/main/work.gif"/></p>
 <p align="center"><img src="https://github.com/TahaChaouch1994/TahaChaouch1994/blob/main/github_banner.gif"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahachaouch1994&label=Profile%20views&color=0e75b6&style=flat" alt="tahachaouch1994" /> </p>
