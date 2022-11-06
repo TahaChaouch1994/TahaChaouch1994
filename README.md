@@ -26,7 +26,7 @@
 
 <h1></h1>
 <h3 align="center">Support:</h3>
-<p align="center"> <a href="https://www.buymeacoffee.com/tahachaouch"> <img src="https://github.com/TahaChaouch1994/TahaChaouch1994/blob/main/supportme.gif" height="40px" width="40px"/> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tahachaouch" /></a> <img src="https://github.com/TahaChaouch1994/TahaChaouch1994/blob/main/supportme.gif" height="40px" width="40px"/></p><br><br>
+<p align="center"> <a href="https://www.buymeacoffee.com/tahachaouch"> <img src="https://github.com/TahaChaouch1994/TahaChaouch1994/blob/main/supportme.gif" height="40px" width="40px"/> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tahachaouch" /></a></p><br><br>
 
 
 
