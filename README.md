@@ -3,7 +3,7 @@
 <h2 align="center">And</h2>
 <h3 align="center"> I am a Mobile Software Engineer</h3> 
 <span align="center"><img src="https://github.com/TahaChaouch1994/TahaChaouch1994/blob/main/github_banner.gif"/></span>
-<h1>Hi 👋, my name is Taha</h1>
+  <div><h1>Hi 👋, my name is Taha</h1></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahachaouch1994&label=Profile%20views&color=0e75b6&style=flat" alt="tahachaouch1994" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahachaouch1994" alt="tahachaouch1994" /></a> </p>
