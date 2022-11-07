@@ -24,7 +24,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahachaouch1994&" alt="tahachaouch1994" /></p>
 
 <h1></h1>
-<h3 align="center"> <img src="https://github.com/TahaChaouch1994/TahaChaouch1994/blob/main/supportme.gif"/>Support:<img src="https://github.com/TahaChaouch1994/TahaChaouch1994/blob/main/supportme.gif"/></h3>
+<h3 align="center"> <img src="https://github.com/TahaChaouch1994/TahaChaouch1994/blob/main/supportme.gif" height="40px" width="40px"/>Support:<img src="https://github.com/TahaChaouch1994/TahaChaouch1994/blob/main/supportme.gif" height="40px" width="40px"/></h3>
 <p align="center"> <a href="https://www.buymeacoffee.com/tahachaouch"> <img src="https://github.com/TahaChaouch1994/TahaChaouch1994/blob/main/supportme.gif" height="40px" width="40px"/> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tahachaouch" /></a></p><br><br>
 
 
