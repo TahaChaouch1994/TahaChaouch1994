@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name is Taha</h1>
 <h2 align="center"> And </h2>
-<!-- <p align="center"><img src="https://github.com/TahaChaouch1994/TahaChaouch1994/blob/main/work.gif"/></p> -->
-<p align="center"><img src="https://github.com/TahaChaouch1994/TahaChaouch1994/blob/main/github_banner.gif"/></p>
+<p align="center"><img src="https://github.com/TahaChaouch1994/TahaChaouch1994/blob/main/work.gif"/></p> 
+<!-- <p align="center"><img src="https://github.com/TahaChaouch1994/TahaChaouch1994/blob/main/github_banner.gif"/></p> -->
 <br/><br/>
 <p align="center">  <img src="https://github.com/TahaChaouch1994/TahaChaouch1994/blob/main/view_number.gif" height="40px" width="40px"/> <img src="https://komarev.com/ghpvc/?username=tahachaouch1994&label=Profile%20views&color=0e75b6&style=flat"  alt="tahachaouch1994" height="40px" width="180px"/>   <img src="https://github.com/TahaChaouch1994/TahaChaouch1994/blob/main/view_number.gif" height="40px" width="40px"/></p>
 <h1></h1>
